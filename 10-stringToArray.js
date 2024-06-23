@@ -4,3 +4,4 @@
 
 const stringToArray = (string) => string.split(" ");
 // code code code
+console.log(stringToArray("string to array "));
